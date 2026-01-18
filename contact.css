@@ -1,0 +1,7 @@
+img{
+    size: 300px;
+    display: block;
+    width: 150px;
+    border-style: solid;
+    border-color: black;
+}
