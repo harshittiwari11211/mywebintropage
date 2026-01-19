@@ -1,7 +1,16 @@
+body {
+    background-color: lightgray;
+}
+
 img{
     size: 300px;
+    margin-left: 43%;
     display: block;
     width: 150px;
     border-style: solid;
     border-color: black;
+}
+h1, h2, h3, p{
+    text-align: center;
+    font-style: italic;
 }
